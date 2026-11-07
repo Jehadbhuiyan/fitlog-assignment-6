@@ -17,7 +17,7 @@ export default function Footer() {
         </span>
 
         <p className="text-center text-xs text-gray-400 sm:text-right">
-          © {new Date().getFullYear()} FitLog — Workout Library. Train hard,
+          © 2026 FitLog — Workout Library. Train hard, log honest.
           log honest.
         </p>
       </div>
